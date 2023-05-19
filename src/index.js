@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import './output.css'
+import './magic.min.css';
 import ErrorPage from './errorpage';
 import reportWebVitals from './reportWebVitals';
 import HomeSegment from './homeComponents/homeSegment.js'

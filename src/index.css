@@ -8,3 +8,11 @@ body {
 .josef{
   font-family: 'Josefin Slab', serif;
 }
+.mukta{
+  font-family: 'Mukta', sans-serif;
+}
+
+* {
+  border: 2px;
+  border-color: red;
+}
